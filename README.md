@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **MERN Stack, API handling, MySQL database, Java.**
 
-- 📫 How to reach me **Reach me at- rakshitsharma3103@gmail.com**
+- 📫 **Reach me at- rakshitsharma3103@gmail.com**
 
 - 📄 Resume Link- [https://drive.google.com/file/d/1gDO1U0xfgxMNcMzlnG4h2QaEAzvyJgQS/view?usp=sharing](https://drive.google.com/file/d/1gDO1U0xfgxMNcMzlnG4h2QaEAzvyJgQS/view?usp=sharing)
 
